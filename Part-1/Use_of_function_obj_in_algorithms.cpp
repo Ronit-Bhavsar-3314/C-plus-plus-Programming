@@ -12,7 +12,7 @@ int main()
     cout<<x[i]<<" ";
     cout<<endl;
     for(int j=0;j<4;j++)
-    cout<<y[j]<<" ";
+    cout<<y[j]<<" "<<" ";
     cout<<endl;
     int z[9];
     merge(x,x+5,y,y+4,z);
